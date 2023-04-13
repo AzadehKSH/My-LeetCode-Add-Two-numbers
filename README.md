@@ -1,5 +1,5 @@
 # My-LeetCode
-I want share my Leetcode answers here
+I want to share my Leetcode answers here
 
 ## Description
 
